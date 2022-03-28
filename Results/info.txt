@@ -1,0 +1,4 @@
+legend for results:
+
+Trafo Version 1 = Hermite least squares
+Trafo Version 4 = Hermite BOBYQA
